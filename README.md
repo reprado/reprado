@@ -25,6 +25,5 @@
   
   <div>
      
-    ![Snake animation](https://github.com/reprado/reprado/blob/output/github-contribution-grid-snake.svg)
 
   </div>
