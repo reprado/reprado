@@ -1,8 +1,10 @@
+<meta charset="UTF-8">
+
 <div align="center">
   
 # Olá, sejam bem-vindxs! ♥
 #### Meu nome é Renata e estou ingressando nesse mundo da programação.
-#### Abaixo deixei um pouco das linguagens que estou estudando no momento e minhas redes.
+#### Abaixo, deixei os ícones das linguagens que estou estudando no momento e minhas redes para contato.
 
   
 </div>
